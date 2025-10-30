@@ -24,5 +24,4 @@ Built for quick performance, modern styling with **Tailwind CSS**, and clean arc
 
 ---
 
-## 📁 Project Structure
 
